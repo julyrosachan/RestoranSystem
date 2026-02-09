@@ -29,7 +29,7 @@ public class RestaurantSystem
             Console.WriteLine("Rol seçin:");
             Console.WriteLine("  1 → Admin");
             Console.WriteLine("  2 → Manager");
-            Console.WriteLine("  3 → User (Müştəri)");
+            Console.WriteLine("  3 → User");
             Console.WriteLine("  0 → Çıxış");
             Console.Write("\nSeçim: ");
 
